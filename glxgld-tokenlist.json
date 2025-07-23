@@ -1,0 +1,21 @@
+{
+  "name": "GalaxyGold Token List",
+  "logoURI": "https://raw.githubusercontent.com/SomeoneLikeYou1/GLXGLDLOGO/main/Original_256x256.png",
+  "keywords": ["galaxygold", "glxgld", "token"],
+  "timestamp": "2025-07-23T12:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x6F666948ce24bB7141E154272f23F74e47b42c9B", 
+      "name": "GalaxyGold",
+      "symbol": "GLXGLD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SomeoneLikeYou1/GLXGLDLOGO/main/Original_256x256.png"
+    }
+  ]
+}
